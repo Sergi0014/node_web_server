@@ -18,7 +18,6 @@ Este proyecto es una aplicación de servidor construida con Node.js. Utiliza con
     ```
 4. Debes armar tu variable de entorno .env con la plantilla que deje disponible.(recomendado PORT:3000 y carpeta 'PUBLIC'):
  
-    ```
 ## Uso
 
 Para iniciar el servidor, ejecuta el siguiente comando:
